@@ -1,0 +1,3902 @@
+﻿$axure.loadCurrentPage({
+  "url":"搜索联想.html",
+  "generationDate":new Date(1417419972531.67),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6b3a9aeef60d4706ab22e05b79736dcb",
+    "type":"Axure:Page",
+    "name":"搜索联想",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF333333},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0809bd1ce2c843e2ac9f919bd28b71a4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":50,
+              "y":110},
+            "size":{
+              "width":320,
+              "height":568},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f88d3758e1fa454e871e938c16f5161a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":50,
+                  "y":110},
+                "size":{
+                  "width":320,
+                  "height":568},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u0.png"}},
+{
+          "id":"6f45054e710c45f8a2749122e24dc989",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":56,
+              "y":115},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08f4fcd6ff524aadaf54f406c0946e13",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":56,
+                  "y":115},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u12.png"}},
+{
+          "id":"7179e35586e24353b3167ff33ade783c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":59,
+              "y":140},
+            "size":{
+              "width":251,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"13"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18a728ed37a14a41ab4fb62f4dbe1ed0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":59,
+                  "y":140},
+                "size":{
+                  "width":251,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"13"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u4.png"}},
+{
+          "id":"8f0a7f0e6a1d4dd5801a83395775b400",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":70,
+              "y":146},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a8dd13feb9142f9aac99ef2a44cfdee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":70,
+                  "y":146},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u6.png"}},
+{
+          "id":"fabff0de09a440cbb90ce7fd4ceecd83",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":320,
+              "y":140},
+            "size":{
+              "width":40,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b1e0eb6a8ded4bacbc9dd089ece51842",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":320,
+                  "y":140},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u8.png"}},
+{
+          "id":"1e70472bdcf64a308b303fade942547c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":461},
+            "size":{
+              "width":318,
+              "height":216},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"780dcbf8b95a4e29a86c15a0413cae2c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":51,
+                  "y":461},
+                "size":{
+                  "width":318,
+                  "height":216},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u129.png"}},
+{
+          "id":"184c2c88b5b14b2caac5567dd474fb4f",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":87,
+              "y":146},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索默认页/u135_line.png"}},
+{
+          "id":"b1dc28915d9648819e68d3e950888f9b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"28px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":278,
+              "y":144},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5387845c2c6b41dbb2b78ae31cf55d8d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"28px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":278,
+                  "y":144},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u13.png"}},
+{
+          "id":"4daceccad9e04c35a6d55d4487e30046",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":50,
+              "y":85},
+            "size":{
+              "width":300,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f843e62a0f2c4c9fb22ff218781228b0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":50,
+                  "y":85},
+                "size":{
+                  "width":300,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"68d4aae853d84782a5a7e166618da5f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":541,
+              "y":88},
+            "size":{
+              "width":300,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"97ba4001fbc14de78e1c016c14f4659b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":541,
+                  "y":88},
+                "size":{
+                  "width":300,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a66705c087bc460489e1ac59acd3c056",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":215},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"db26ffcd349c4b01a1a6d526fad4fc1a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":99,
+              "y":182},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e0ccbc8c4ce4e8cb19c1a1ffd0fdb9b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":99,
+                  "y":182},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"42afcc6519d44bb39f6d1a250e02ac31",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":182},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8ebcdccd130e451bb0c9a7b9696d42d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":182},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"c3ac7a87dcc4467aa904f2196968808b",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":262},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"7aaaaa10e0a8407ead8d6e0eceebc5da",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":99,
+              "y":229},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8360fc6e9d04fb590780d866d624b03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":99,
+                  "y":229},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4ad4bf94ee5144f695176472201ba89d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":229},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2dd960c3ff7046a981792d5dd7f973e4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":229},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"dd66de293e0342d08c5077d1298a9637",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":307},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"0199fe83155f407ba38beebef535b731",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":99,
+              "y":274},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c208f4c38b541dc90643e4aa4e7a764",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":99,
+                  "y":274},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"32e58788a2014623b28a89032ec7036d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":274},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c15afba7b8a043719e4e9a0874081c7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":274},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"26d08eecd3614bf8952ed33eb11acee4",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":354},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"77b8ceb8e40f458ba534722dd25f60c2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":99,
+              "y":321},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38bb8ee45bfe46bb81b9e2e914634ddb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":99,
+                  "y":321},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"78d80e1796ab4e3dbee52bc94902b45b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":321},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d463987c1d8c42fdb51e65b676db2bee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":321},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"d9124be4900e4838957c8a60dbd1be02",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":402},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"3d85d916ac4e462da74dc3e410bc2877",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":99,
+              "y":369},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2601636ac8ae4b1e872a8ddc21a11041",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":99,
+                  "y":369},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f2eba88dc60b46b3af10035d6d17d877",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":369},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ce5b7f78b42043c0943ed70a054b2681",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":369},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"6df6534cbfb34a54a494182d30d545a5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":540,
+              "y":114},
+            "size":{
+              "width":320,
+              "height":568},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc202589a73a4703b8677b4181fb2c58",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":540,
+                  "y":114},
+                "size":{
+                  "width":320,
+                  "height":568},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u0.png"}},
+{
+          "id":"531272906db04386a8aaa416938b1914",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":546,
+              "y":119},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd67f9bc9fc84f7aab6e40a397675f45",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":546,
+                  "y":119},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u12.png"}},
+{
+          "id":"7e844ec1c8b6401f977b74287d34a234",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":549,
+              "y":144},
+            "size":{
+              "width":251,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"13"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"28f41f338c3849fc84abb05742ccec7f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":549,
+                  "y":144},
+                "size":{
+                  "width":251,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"13"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u4.png"}},
+{
+          "id":"891a871fb8e04c79a775b833927a1b2a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":560,
+              "y":150},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5fa2be142d4f4c1bb8840e693498bf9f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":560,
+                  "y":150},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u6.png"}},
+{
+          "id":"17b87d95c6a34fefb131a6533f311015",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":810,
+              "y":144},
+            "size":{
+              "width":40,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7b4c8847768a4d0699a12ffa59caffba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":810,
+                  "y":144},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u8.png"}},
+{
+          "id":"6537f4902b9e419c81ba713c5238b126",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":593,
+              "y":150},
+            "size":{
+              "width":10,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF333333}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索默认页/u135_line.png"}},
+{
+          "id":"78569c9bd62d40bb9c56b5f762b18e65",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"28px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":768,
+              "y":148},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4a72d5d9383b472ea6c5dd2af44eb119",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"28px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":768,
+                  "y":148},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u13.png"}},
+{
+          "id":"9ac0361bf27741dbba62217ce86fd45d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":221},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"9d860394551041f891e43d0c275db4f6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":589,
+              "y":188},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"666d8d7d3c3545a3b7efaf19bb1a3f0d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":589,
+                  "y":188},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6074a0e7ceb64669a72608b7986d7e68",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":188},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1239124b99be4c7eb500ab8f92032e0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":188},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"f245b50226f444e3bcb829118d8bbeb6",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":268},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"8ba9beb93cd840ae9ce85357cf989974",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":589,
+              "y":235},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e9866058f2be489185649d3c2434a979",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":589,
+                  "y":235},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"95cc1f0a599f400985a2b373267caa20",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":235},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f5c9aa5b48a4716874eb542d62eb9ff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":235},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"04ca2cf9d3744f63a6f0a10608256a90",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":313},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"d01d282be0ec4c92834aa8b6d0893ac1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":589,
+              "y":280},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5458a14c177d45d78add146228035c00",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":589,
+                  "y":280},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1671fc43bbac485590c2d67d296e58fe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":280},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"63b3f0ab26414c99bcf9e8750c3428c3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":280},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"10a7996e9f3640c58323889f434c3ac3",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":360},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"5da7fd2f44514a2fb7841cd5fd9f0012",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":589,
+              "y":327},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4052a4467d134e2abbc8cb323e305eb5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":589,
+                  "y":327},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b23d019e28c8406aaee48bbddad0f915",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":327},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6b6b69888264725b4614e6653db882a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":327},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"670a04ef385e45418c2926d1fa71c770",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":408},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"58ad5de849ba4c9ea719950301e5acec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":589,
+              "y":375},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50b8089ecea841f3bc9263276fe81f23",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":589,
+                  "y":375},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f96b6f06779f4cebb8d6763b3696453d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":375},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08f235d14fb4467b9603a3c4d2f4ca1f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":375},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"40ec6257e7f04fe9892567571ccc23e5",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":451},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"34071a5cdb6c47518e8ca082afad1222",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":589,
+              "y":418},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0b859e384354d6da5935b6cf8db1ecb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":589,
+                  "y":418},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d9fd445a887e4ad9bbc47a3a4272e176",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":418},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5cf5566bb6c24904844b6b4047a6a7e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":418},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"773c4fe83dc5445ea0db831b532365a9",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":498},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"8a1779ed36654c2ea56bfd7c3b849ce6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":589,
+              "y":465},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1b65a27a7fa14404940264c208ba13e0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":589,
+                  "y":465},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cc561d14990041b48206492f8aa2f4f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":465},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7466515b65bb4254bdca212b5e25b18b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":465},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"67da69e5459248339fdda39e3023eb82",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":541},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"9cfb456f3f3949718adc572e2ad078a0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":589,
+              "y":508},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"121dc32e81824673bca2a93ff3c07930",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":589,
+                  "y":508},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"da268ef2c5364644bfd126471b643dc0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":508},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f6c041dfde04d478ad353054fa2ee4d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":508},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"b639d43f09544569af89a21bffa6e83e",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":588},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"8822364542894e0dbb08747f868a21a7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":589,
+              "y":555},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"20f9e9ef891345549e679edf1ae4498b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":589,
+                  "y":555},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f389a1333ae043a288b4e5967b7712b5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":555},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"848e294c514b456b8db0e1bb86bd84f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":555},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"82bd1b3f58d9458f903819c883460345",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":541,
+              "y":631},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"0dc29c198b9e4d24bae6654756822332",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+            "fontSize":"14px",
+            "location":{
+              "x":589,
+              "y":598},
+            "size":{
+              "width":140,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d9fb057d383d43ab8e140bbafdbab3c1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Bold', 'Helvetica Neue'",
+                "fontSize":"14px",
+                "location":{
+                  "x":589,
+                  "y":598},
+                "size":{
+                  "width":140,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6ffab06c4305449cb5f9f5321b99c1c1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":549,
+              "y":598},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"74e8666466c4492291975158406db444",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":549,
+                  "y":598},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"dd1d09e82e194be9bfd217eb5c8c6ca0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"18px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF007AFF},
+            "location":{
+              "x":292,
+              "y":634},
+            "size":{
+              "width":73,
+              "height":40},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "cornerRadiusTopLeft":"3"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9cfc42dad43344888500ff41d8444919",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"18px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF007AFF},
+                "location":{
+                  "x":292,
+                  "y":634},
+                "size":{
+                  "width":73,
+                  "height":40},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "cornerRadiusTopLeft":"3"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索默认页/u133.png"}},
+{
+          "id":"52870421c1794e0695b46dfb7539a505",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":51,
+              "y":445},
+            "size":{
+              "width":318,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE4E4E4}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/搜索联想/u19_line.png"}},
+{
+          "id":"c3d256cc0db84bfd83079afa329397e0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":99,
+              "y":412},
+            "size":{
+              "width":53,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"299aeb9873874a87be19430f7b1263dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":99,
+                  "y":412},
+                "size":{
+                  "width":53,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"967948fd53324d02ac45556178e42469",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":59,
+              "y":412},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "cornerRadiusTopLeft":"4"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12a47dd4f9a84a2ebc9b9f9ef2e37581",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":59,
+                  "y":412},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "cornerRadiusTopLeft":"4"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u22.png"}},
+{
+          "id":"278dfd529e004c76b7b58b1d19fa9912",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":340,
+              "y":187},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"19223e47b20749f6b7a244cded5bc18e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":340,
+                  "y":187},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"97a62aae58a94c2a86cbdc74b316326d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":340,
+              "y":237},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c947eee59af847a4bda0e811b2bc2a37",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":340,
+                  "y":237},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"d48230d679f84fd99ea31f0793b06796",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":340,
+              "y":281},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f2a5ae681f4748c68c7c4cfcfda36314",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":340,
+                  "y":281},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"179dba17e762469d99f51b7609d6a438",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":339,
+              "y":325},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d0c359360ec649a3b2634c86a09506d8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":339,
+                  "y":325},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"2309da2d02454db68d8b742c4e5a488c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":339,
+              "y":375},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"83f46b4df80f43118858d6b2b7323cca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":339,
+                  "y":375},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"8ce3c779bcd347a29312c0938f4e33b4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":339,
+              "y":419},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12bdb76eadc7442da4efc9a2c5016ae2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":339,
+                  "y":419},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"e0f5119fe28944b8b8f81c5f701ac882",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":195},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"af192e28d6b2451f96debfe5f4cbe32c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":195},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"dbd6898125a9418f885a561d095b82f4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":240},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"846f47c2b7324336b9b0e866d36c9935",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":240},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"9592af0a2973433290d29db306ca273b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":286},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e4de1225006b4b8dbe519d4d1988460f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":286},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"c95a1729ed7041ae96870a40718a39bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":336},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"025c945296d4477d88e1cbca363d273d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":336},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"ab3a86ec852d42828e3b72e0da452c1a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":382},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"707851e3f6f549f8bf2de14c082ddfb6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":382},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"0e1deadf0bce45cbb722337dd0175c7c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":426},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"507a77682521467cbb896438f9113670",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":426},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"9088cfb5880f4c7c8ffa278bc3af28c1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":472},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"72e0ca94884948409e25e6965b561730",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":472},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"1d9ba3a6e4514f0dabf98138d4da10e6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":516},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0b292d5f3a245b4af769db431b11ca7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":516},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"05991b8b73e54f3e94de4b3090daf6a4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":562},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"25fd0bd2066a4679819001b7a0206d46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":562},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"fca8265e21c94ffe9d97aef383d19707",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+            "fontSize":"28px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":830,
+              "y":606},
+            "size":{
+              "width":20,
+              "height":20},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"999a090ffbaa4b68bda97fe53d7993f6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Helvetica Neue Regular', 'Helvetica Neue'",
+                "fontSize":"28px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":830,
+                  "y":606},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索联想/u114.png"}},
+{
+          "id":"a4d528e34b08481aabf5d776dc99227c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":50,
+              "y":50},
+            "size":{
+              "width":200,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5962f172f2bd434a82225b6548c54fe7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":50,
+                  "y":50},
+                "size":{
+                  "width":200,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"83414e83df3746f5ba22aae8ce327868",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "lineSpacing":"24px",
+            "location":{
+              "x":910,
+              "y":192},
+            "size":{
+              "width":300,
+              "height":192}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbc50b59cbc1408693062d66dcd12486",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "lineSpacing":"24px",
+                "location":{
+                  "x":910,
+                  "y":192},
+                "size":{
+                  "width":300,
+                  "height":192}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0809bd1ce2c843e2ac9f919bd28b71a4":{
+      "scriptId":"u0"},
+    "f88d3758e1fa454e871e938c16f5161a":{
+      "scriptId":"u1"},
+    "6f45054e710c45f8a2749122e24dc989":{
+      "scriptId":"u2"},
+    "08f4fcd6ff524aadaf54f406c0946e13":{
+      "scriptId":"u3"},
+    "7179e35586e24353b3167ff33ade783c":{
+      "scriptId":"u4"},
+    "18a728ed37a14a41ab4fb62f4dbe1ed0":{
+      "scriptId":"u5"},
+    "8f0a7f0e6a1d4dd5801a83395775b400":{
+      "scriptId":"u6"},
+    "0a8dd13feb9142f9aac99ef2a44cfdee":{
+      "scriptId":"u7"},
+    "fabff0de09a440cbb90ce7fd4ceecd83":{
+      "scriptId":"u8"},
+    "b1e0eb6a8ded4bacbc9dd089ece51842":{
+      "scriptId":"u9"},
+    "1e70472bdcf64a308b303fade942547c":{
+      "scriptId":"u10"},
+    "780dcbf8b95a4e29a86c15a0413cae2c":{
+      "scriptId":"u11"},
+    "184c2c88b5b14b2caac5567dd474fb4f":{
+      "scriptId":"u12"},
+    "b1dc28915d9648819e68d3e950888f9b":{
+      "scriptId":"u13"},
+    "5387845c2c6b41dbb2b78ae31cf55d8d":{
+      "scriptId":"u14"},
+    "4daceccad9e04c35a6d55d4487e30046":{
+      "scriptId":"u15"},
+    "f843e62a0f2c4c9fb22ff218781228b0":{
+      "scriptId":"u16"},
+    "68d4aae853d84782a5a7e166618da5f5":{
+      "scriptId":"u17"},
+    "97ba4001fbc14de78e1c016c14f4659b":{
+      "scriptId":"u18"},
+    "a66705c087bc460489e1ac59acd3c056":{
+      "scriptId":"u19"},
+    "db26ffcd349c4b01a1a6d526fad4fc1a":{
+      "scriptId":"u20"},
+    "6e0ccbc8c4ce4e8cb19c1a1ffd0fdb9b":{
+      "scriptId":"u21"},
+    "42afcc6519d44bb39f6d1a250e02ac31":{
+      "scriptId":"u22"},
+    "8ebcdccd130e451bb0c9a7b9696d42d6":{
+      "scriptId":"u23"},
+    "c3ac7a87dcc4467aa904f2196968808b":{
+      "scriptId":"u24"},
+    "7aaaaa10e0a8407ead8d6e0eceebc5da":{
+      "scriptId":"u25"},
+    "c8360fc6e9d04fb590780d866d624b03":{
+      "scriptId":"u26"},
+    "4ad4bf94ee5144f695176472201ba89d":{
+      "scriptId":"u27"},
+    "2dd960c3ff7046a981792d5dd7f973e4":{
+      "scriptId":"u28"},
+    "dd66de293e0342d08c5077d1298a9637":{
+      "scriptId":"u29"},
+    "0199fe83155f407ba38beebef535b731":{
+      "scriptId":"u30"},
+    "4c208f4c38b541dc90643e4aa4e7a764":{
+      "scriptId":"u31"},
+    "32e58788a2014623b28a89032ec7036d":{
+      "scriptId":"u32"},
+    "c15afba7b8a043719e4e9a0874081c7c":{
+      "scriptId":"u33"},
+    "26d08eecd3614bf8952ed33eb11acee4":{
+      "scriptId":"u34"},
+    "77b8ceb8e40f458ba534722dd25f60c2":{
+      "scriptId":"u35"},
+    "38bb8ee45bfe46bb81b9e2e914634ddb":{
+      "scriptId":"u36"},
+    "78d80e1796ab4e3dbee52bc94902b45b":{
+      "scriptId":"u37"},
+    "d463987c1d8c42fdb51e65b676db2bee":{
+      "scriptId":"u38"},
+    "d9124be4900e4838957c8a60dbd1be02":{
+      "scriptId":"u39"},
+    "3d85d916ac4e462da74dc3e410bc2877":{
+      "scriptId":"u40"},
+    "2601636ac8ae4b1e872a8ddc21a11041":{
+      "scriptId":"u41"},
+    "f2eba88dc60b46b3af10035d6d17d877":{
+      "scriptId":"u42"},
+    "ce5b7f78b42043c0943ed70a054b2681":{
+      "scriptId":"u43"},
+    "6df6534cbfb34a54a494182d30d545a5":{
+      "scriptId":"u44"},
+    "fc202589a73a4703b8677b4181fb2c58":{
+      "scriptId":"u45"},
+    "531272906db04386a8aaa416938b1914":{
+      "scriptId":"u46"},
+    "bd67f9bc9fc84f7aab6e40a397675f45":{
+      "scriptId":"u47"},
+    "7e844ec1c8b6401f977b74287d34a234":{
+      "scriptId":"u48"},
+    "28f41f338c3849fc84abb05742ccec7f":{
+      "scriptId":"u49"},
+    "891a871fb8e04c79a775b833927a1b2a":{
+      "scriptId":"u50"},
+    "5fa2be142d4f4c1bb8840e693498bf9f":{
+      "scriptId":"u51"},
+    "17b87d95c6a34fefb131a6533f311015":{
+      "scriptId":"u52"},
+    "7b4c8847768a4d0699a12ffa59caffba":{
+      "scriptId":"u53"},
+    "6537f4902b9e419c81ba713c5238b126":{
+      "scriptId":"u54"},
+    "78569c9bd62d40bb9c56b5f762b18e65":{
+      "scriptId":"u55"},
+    "4a72d5d9383b472ea6c5dd2af44eb119":{
+      "scriptId":"u56"},
+    "9ac0361bf27741dbba62217ce86fd45d":{
+      "scriptId":"u57"},
+    "9d860394551041f891e43d0c275db4f6":{
+      "scriptId":"u58"},
+    "666d8d7d3c3545a3b7efaf19bb1a3f0d":{
+      "scriptId":"u59"},
+    "6074a0e7ceb64669a72608b7986d7e68":{
+      "scriptId":"u60"},
+    "1239124b99be4c7eb500ab8f92032e0b":{
+      "scriptId":"u61"},
+    "f245b50226f444e3bcb829118d8bbeb6":{
+      "scriptId":"u62"},
+    "8ba9beb93cd840ae9ce85357cf989974":{
+      "scriptId":"u63"},
+    "e9866058f2be489185649d3c2434a979":{
+      "scriptId":"u64"},
+    "95cc1f0a599f400985a2b373267caa20":{
+      "scriptId":"u65"},
+    "9f5c9aa5b48a4716874eb542d62eb9ff":{
+      "scriptId":"u66"},
+    "04ca2cf9d3744f63a6f0a10608256a90":{
+      "scriptId":"u67"},
+    "d01d282be0ec4c92834aa8b6d0893ac1":{
+      "scriptId":"u68"},
+    "5458a14c177d45d78add146228035c00":{
+      "scriptId":"u69"},
+    "1671fc43bbac485590c2d67d296e58fe":{
+      "scriptId":"u70"},
+    "63b3f0ab26414c99bcf9e8750c3428c3":{
+      "scriptId":"u71"},
+    "10a7996e9f3640c58323889f434c3ac3":{
+      "scriptId":"u72"},
+    "5da7fd2f44514a2fb7841cd5fd9f0012":{
+      "scriptId":"u73"},
+    "4052a4467d134e2abbc8cb323e305eb5":{
+      "scriptId":"u74"},
+    "b23d019e28c8406aaee48bbddad0f915":{
+      "scriptId":"u75"},
+    "b6b6b69888264725b4614e6653db882a":{
+      "scriptId":"u76"},
+    "670a04ef385e45418c2926d1fa71c770":{
+      "scriptId":"u77"},
+    "58ad5de849ba4c9ea719950301e5acec":{
+      "scriptId":"u78"},
+    "50b8089ecea841f3bc9263276fe81f23":{
+      "scriptId":"u79"},
+    "f96b6f06779f4cebb8d6763b3696453d":{
+      "scriptId":"u80"},
+    "08f235d14fb4467b9603a3c4d2f4ca1f":{
+      "scriptId":"u81"},
+    "40ec6257e7f04fe9892567571ccc23e5":{
+      "scriptId":"u82"},
+    "34071a5cdb6c47518e8ca082afad1222":{
+      "scriptId":"u83"},
+    "b0b859e384354d6da5935b6cf8db1ecb":{
+      "scriptId":"u84"},
+    "d9fd445a887e4ad9bbc47a3a4272e176":{
+      "scriptId":"u85"},
+    "5cf5566bb6c24904844b6b4047a6a7e5":{
+      "scriptId":"u86"},
+    "773c4fe83dc5445ea0db831b532365a9":{
+      "scriptId":"u87"},
+    "8a1779ed36654c2ea56bfd7c3b849ce6":{
+      "scriptId":"u88"},
+    "1b65a27a7fa14404940264c208ba13e0":{
+      "scriptId":"u89"},
+    "cc561d14990041b48206492f8aa2f4f5":{
+      "scriptId":"u90"},
+    "7466515b65bb4254bdca212b5e25b18b":{
+      "scriptId":"u91"},
+    "67da69e5459248339fdda39e3023eb82":{
+      "scriptId":"u92"},
+    "9cfb456f3f3949718adc572e2ad078a0":{
+      "scriptId":"u93"},
+    "121dc32e81824673bca2a93ff3c07930":{
+      "scriptId":"u94"},
+    "da268ef2c5364644bfd126471b643dc0":{
+      "scriptId":"u95"},
+    "1f6c041dfde04d478ad353054fa2ee4d":{
+      "scriptId":"u96"},
+    "b639d43f09544569af89a21bffa6e83e":{
+      "scriptId":"u97"},
+    "8822364542894e0dbb08747f868a21a7":{
+      "scriptId":"u98"},
+    "20f9e9ef891345549e679edf1ae4498b":{
+      "scriptId":"u99"},
+    "f389a1333ae043a288b4e5967b7712b5":{
+      "scriptId":"u100"},
+    "848e294c514b456b8db0e1bb86bd84f1":{
+      "scriptId":"u101"},
+    "82bd1b3f58d9458f903819c883460345":{
+      "scriptId":"u102"},
+    "0dc29c198b9e4d24bae6654756822332":{
+      "scriptId":"u103"},
+    "d9fb057d383d43ab8e140bbafdbab3c1":{
+      "scriptId":"u104"},
+    "6ffab06c4305449cb5f9f5321b99c1c1":{
+      "scriptId":"u105"},
+    "74e8666466c4492291975158406db444":{
+      "scriptId":"u106"},
+    "dd1d09e82e194be9bfd217eb5c8c6ca0":{
+      "scriptId":"u107"},
+    "9cfc42dad43344888500ff41d8444919":{
+      "scriptId":"u108"},
+    "52870421c1794e0695b46dfb7539a505":{
+      "scriptId":"u109"},
+    "c3d256cc0db84bfd83079afa329397e0":{
+      "scriptId":"u110"},
+    "299aeb9873874a87be19430f7b1263dd":{
+      "scriptId":"u111"},
+    "967948fd53324d02ac45556178e42469":{
+      "scriptId":"u112"},
+    "12a47dd4f9a84a2ebc9b9f9ef2e37581":{
+      "scriptId":"u113"},
+    "278dfd529e004c76b7b58b1d19fa9912":{
+      "scriptId":"u114"},
+    "19223e47b20749f6b7a244cded5bc18e":{
+      "scriptId":"u115"},
+    "97a62aae58a94c2a86cbdc74b316326d":{
+      "scriptId":"u116"},
+    "c947eee59af847a4bda0e811b2bc2a37":{
+      "scriptId":"u117"},
+    "d48230d679f84fd99ea31f0793b06796":{
+      "scriptId":"u118"},
+    "f2a5ae681f4748c68c7c4cfcfda36314":{
+      "scriptId":"u119"},
+    "179dba17e762469d99f51b7609d6a438":{
+      "scriptId":"u120"},
+    "d0c359360ec649a3b2634c86a09506d8":{
+      "scriptId":"u121"},
+    "2309da2d02454db68d8b742c4e5a488c":{
+      "scriptId":"u122"},
+    "83f46b4df80f43118858d6b2b7323cca":{
+      "scriptId":"u123"},
+    "8ce3c779bcd347a29312c0938f4e33b4":{
+      "scriptId":"u124"},
+    "12bdb76eadc7442da4efc9a2c5016ae2":{
+      "scriptId":"u125"},
+    "e0f5119fe28944b8b8f81c5f701ac882":{
+      "scriptId":"u126"},
+    "af192e28d6b2451f96debfe5f4cbe32c":{
+      "scriptId":"u127"},
+    "dbd6898125a9418f885a561d095b82f4":{
+      "scriptId":"u128"},
+    "846f47c2b7324336b9b0e866d36c9935":{
+      "scriptId":"u129"},
+    "9592af0a2973433290d29db306ca273b":{
+      "scriptId":"u130"},
+    "e4de1225006b4b8dbe519d4d1988460f":{
+      "scriptId":"u131"},
+    "c95a1729ed7041ae96870a40718a39bc":{
+      "scriptId":"u132"},
+    "025c945296d4477d88e1cbca363d273d":{
+      "scriptId":"u133"},
+    "ab3a86ec852d42828e3b72e0da452c1a":{
+      "scriptId":"u134"},
+    "707851e3f6f549f8bf2de14c082ddfb6":{
+      "scriptId":"u135"},
+    "0e1deadf0bce45cbb722337dd0175c7c":{
+      "scriptId":"u136"},
+    "507a77682521467cbb896438f9113670":{
+      "scriptId":"u137"},
+    "9088cfb5880f4c7c8ffa278bc3af28c1":{
+      "scriptId":"u138"},
+    "72e0ca94884948409e25e6965b561730":{
+      "scriptId":"u139"},
+    "1d9ba3a6e4514f0dabf98138d4da10e6":{
+      "scriptId":"u140"},
+    "b0b292d5f3a245b4af769db431b11ca7":{
+      "scriptId":"u141"},
+    "05991b8b73e54f3e94de4b3090daf6a4":{
+      "scriptId":"u142"},
+    "25fd0bd2066a4679819001b7a0206d46":{
+      "scriptId":"u143"},
+    "fca8265e21c94ffe9d97aef383d19707":{
+      "scriptId":"u144"},
+    "999a090ffbaa4b68bda97fe53d7993f6":{
+      "scriptId":"u145"},
+    "a4d528e34b08481aabf5d776dc99227c":{
+      "scriptId":"u146"},
+    "5962f172f2bd434a82225b6548c54fe7":{
+      "scriptId":"u147"},
+    "83414e83df3746f5ba22aae8ce327868":{
+      "scriptId":"u148"},
+    "cbc50b59cbc1408693062d66dcd12486":{
+      "scriptId":"u149"}}});

@@ -1,0 +1,1419 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的游戏相关功能流程.html",
+  "generationDate":new Date(1417419973225.74),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a87bc87fca9649c9a59547793dc62907",
+    "type":"Axure:Page",
+    "name":"我的游戏相关功能流程",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF333333},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"507999560575497d86e30a148508ae4a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":120,
+              "y":120},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79ab5e7731404f9594920bf853a28119",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":120,
+                  "y":120},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索相关（可以按下面4个步骤来设计）/u2.png"}},
+{
+          "id":"1ba2c2d48d1644089ea973ea49882038",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":320,
+              "y":120},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"06d3daa62c4c4abe8c106906d51a0689",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":320,
+                  "y":120},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"a2302f246e374fb5b8b6ebc49cc9e7b4",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":520,
+              "y":120},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"690828039ca840328c55b97042e06385",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":520,
+                  "y":120},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"267ba45a80764f42888259cfb15e7b61",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":220,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7af473d5eecc49468071e01808987466",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":220,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"22a25061993c4083a3ae18963dbf55df",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":420,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8f5d5f55332b4c8d964f13e2d9d76a94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":420,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"49deb33378dd41f7be68bb543f43c724",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":120,
+              "y":349},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aa4fbfbfef824c97a1311d07ebad113e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":120,
+                  "y":349},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索相关（可以按下面4个步骤来设计）/u2.png"}},
+{
+          "id":"ff745a312e7e4d2caae74f3016ad2d76",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":320,
+              "y":299},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d852c750e77a438b899299ab93544612",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":320,
+                  "y":299},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"79ce342bb68243cab2f808887b7814cb",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":320,
+              "y":419},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3a8e9f031eec4f1fa6debab2fdbc93b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":320,
+                  "y":419},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"bb102be186074f7c8a10246ec6079fa2",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":650,
+              "y":349},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"41167408acf540189fbc472e5a6f2fe9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":650,
+                  "y":349},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"89eee5faf5944f4ca1c7c193bdd033ca",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":220,
+              "y":379},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f6cf19d27a6c4c90b0f09b7cd981c127",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":220,
+                  "y":379},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3ce9d996311c480bbfcd2d2db51a9cae",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":220,
+              "y":379},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ea3c5afe0fc453c971d20b2a3bfba4e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":220,
+                  "y":379},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"7fad190fb17c43e1a15fd42b0c850172",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":460,
+              "y":419},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38c5e0ae20f4485ab2f8c38d9f106383",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":460,
+                  "y":419},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"60d7ea3215cb4e1c921cbe2b6d9affb8",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":420,
+              "y":449},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3bba9ddf3d244488b4cad3f7296f291f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":420,
+                  "y":449},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"21926e8cb5a546cf85b69dc0272cc5eb",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":560,
+              "y":449},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cc5dd9e12bfd49d5b7e95680da1895ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":560,
+                  "y":449},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"4bab5b5558c64e7093c55f77f4d57581",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":420,
+              "y":329},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7105d352e994f139ec860f02dd45575",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":420,
+                  "y":329},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d71c609f052343298517263544915629",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":682,
+              "y":180},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c8dd8d94020438ab50db630319c9685",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":682,
+                  "y":180},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"7e4a86dfe5dc4df9ac9643348d35a0fa",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":682,
+              "y":60},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"88ab77ed7644456fa88ab2be9dcf44d8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":682,
+                  "y":60},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"640921f3e1ad48a892a551ceaacb065d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":840,
+              "y":120},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c4e7a24027e0437689e657d3565cbbf7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":840,
+                  "y":120},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u34.png"}},
+{
+          "id":"35659a92dda84457a850652264751a8b",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1072,
+              "y":60},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"674890d5733f462896294cb0c99f3ee3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1072,
+                  "y":60},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"e61d4a30f22f45159cf97f99c362b712",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1072,
+              "y":170},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"757a736aad394d379b6cf340023e058d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1072,
+                  "y":170},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u2.png"}},
+{
+          "id":"803b0203e2bc4611b225876245761104",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":620,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b8dfd09fb88442fc850bbf12cf26c821",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":620,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5b7c745525de4d00861bc69447cb91fe",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":782,
+              "y":90},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb3c1fc516b94f24a7bacf1c9f45ee3a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":782,
+                  "y":90},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"bfc1125e9f6a4ff1b68754085152730d",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":940,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7da174089e014c38afc5b8e91f6042b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":940,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e9535d1d014c4ee78aad2aaff8a9408a",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":620,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ffbce8efa3441029a9f7f37bad99523",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":620,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3d7629ad90f542db835bec956829ac3e",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":782,
+              "y":210},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e1fe99b748b4363aacb7fbf974a072f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":782,
+                  "y":210},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b0962ab6c52547ebb7c466a29b1736fe",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":940,
+              "y":150},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6fd19e2f0a148fd8e468133cecc07fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":940,
+                  "y":150},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"58d479935402457cac245ac5322c4e23",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1322,
+              "y":60},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7767a0f0e56044afbc0142da6e42e7f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1322,
+                  "y":60},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索相关（可以按下面4个步骤来设计）/u2.png"}},
+{
+          "id":"85b3371e0607405d845972115ad5c62f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1322,
+              "y":140},
+            "size":{
+              "width":100,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fecd15cae0ec4c92a1f7ad71d484d7f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1322,
+                  "y":140},
+                "size":{
+                  "width":100,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索相关（可以按下面4个步骤来设计）/u2.png"}},
+{
+          "id":"93dfef3aa3594202a4210df3d120d42c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1230,
+              "y":122},
+            "size":{
+              "width":62,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c3ef4f79984a4a2f9a06b79ff4f3cc1a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1230,
+                  "y":122},
+                "size":{
+                  "width":62,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏相关功能流程/u56.png"}},
+{
+          "id":"2f08ddd3ebb84ca794af32e67b208642",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1172,
+              "y":200},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"20de9f70ab1d4444ba751531a8a17e85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1172,
+                  "y":200},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"101263f1265b4f58868cbfa42a410ce1",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1292,
+              "y":140},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f574ed87e7b14562b4d253fdb2234605",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1292,
+                  "y":140},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"58c9a23a2f0c435fb6b805410e059f5c",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1292,
+              "y":140},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"262e07eb004c440b979c67d44f4027a5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1292,
+                  "y":140},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b9087d45c7bd44cbae3cab965f3ee304",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1172,
+              "y":90},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5caf4b320ca044898d87a4870b93f8d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1172,
+                  "y":90},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "507999560575497d86e30a148508ae4a":{
+      "scriptId":"u0"},
+    "79ab5e7731404f9594920bf853a28119":{
+      "scriptId":"u1"},
+    "1ba2c2d48d1644089ea973ea49882038":{
+      "scriptId":"u2"},
+    "06d3daa62c4c4abe8c106906d51a0689":{
+      "scriptId":"u3"},
+    "a2302f246e374fb5b8b6ebc49cc9e7b4":{
+      "scriptId":"u4"},
+    "690828039ca840328c55b97042e06385":{
+      "scriptId":"u5"},
+    "267ba45a80764f42888259cfb15e7b61":{
+      "scriptId":"u6"},
+    "7af473d5eecc49468071e01808987466":{
+      "scriptId":"u7"},
+    "22a25061993c4083a3ae18963dbf55df":{
+      "scriptId":"u8"},
+    "8f5d5f55332b4c8d964f13e2d9d76a94":{
+      "scriptId":"u9"},
+    "49deb33378dd41f7be68bb543f43c724":{
+      "scriptId":"u10"},
+    "aa4fbfbfef824c97a1311d07ebad113e":{
+      "scriptId":"u11"},
+    "ff745a312e7e4d2caae74f3016ad2d76":{
+      "scriptId":"u12"},
+    "d852c750e77a438b899299ab93544612":{
+      "scriptId":"u13"},
+    "79ce342bb68243cab2f808887b7814cb":{
+      "scriptId":"u14"},
+    "3a8e9f031eec4f1fa6debab2fdbc93b9":{
+      "scriptId":"u15"},
+    "bb102be186074f7c8a10246ec6079fa2":{
+      "scriptId":"u16"},
+    "41167408acf540189fbc472e5a6f2fe9":{
+      "scriptId":"u17"},
+    "89eee5faf5944f4ca1c7c193bdd033ca":{
+      "scriptId":"u18"},
+    "f6cf19d27a6c4c90b0f09b7cd981c127":{
+      "scriptId":"u19"},
+    "3ce9d996311c480bbfcd2d2db51a9cae":{
+      "scriptId":"u20"},
+    "5ea3c5afe0fc453c971d20b2a3bfba4e":{
+      "scriptId":"u21"},
+    "7fad190fb17c43e1a15fd42b0c850172":{
+      "scriptId":"u22"},
+    "38c5e0ae20f4485ab2f8c38d9f106383":{
+      "scriptId":"u23"},
+    "60d7ea3215cb4e1c921cbe2b6d9affb8":{
+      "scriptId":"u24"},
+    "3bba9ddf3d244488b4cad3f7296f291f":{
+      "scriptId":"u25"},
+    "21926e8cb5a546cf85b69dc0272cc5eb":{
+      "scriptId":"u26"},
+    "cc5dd9e12bfd49d5b7e95680da1895ec":{
+      "scriptId":"u27"},
+    "4bab5b5558c64e7093c55f77f4d57581":{
+      "scriptId":"u28"},
+    "c7105d352e994f139ec860f02dd45575":{
+      "scriptId":"u29"},
+    "d71c609f052343298517263544915629":{
+      "scriptId":"u30"},
+    "8c8dd8d94020438ab50db630319c9685":{
+      "scriptId":"u31"},
+    "7e4a86dfe5dc4df9ac9643348d35a0fa":{
+      "scriptId":"u32"},
+    "88ab77ed7644456fa88ab2be9dcf44d8":{
+      "scriptId":"u33"},
+    "640921f3e1ad48a892a551ceaacb065d":{
+      "scriptId":"u34"},
+    "c4e7a24027e0437689e657d3565cbbf7":{
+      "scriptId":"u35"},
+    "35659a92dda84457a850652264751a8b":{
+      "scriptId":"u36"},
+    "674890d5733f462896294cb0c99f3ee3":{
+      "scriptId":"u37"},
+    "e61d4a30f22f45159cf97f99c362b712":{
+      "scriptId":"u38"},
+    "757a736aad394d379b6cf340023e058d":{
+      "scriptId":"u39"},
+    "803b0203e2bc4611b225876245761104":{
+      "scriptId":"u40"},
+    "b8dfd09fb88442fc850bbf12cf26c821":{
+      "scriptId":"u41"},
+    "5b7c745525de4d00861bc69447cb91fe":{
+      "scriptId":"u42"},
+    "cb3c1fc516b94f24a7bacf1c9f45ee3a":{
+      "scriptId":"u43"},
+    "bfc1125e9f6a4ff1b68754085152730d":{
+      "scriptId":"u44"},
+    "7da174089e014c38afc5b8e91f6042b9":{
+      "scriptId":"u45"},
+    "e9535d1d014c4ee78aad2aaff8a9408a":{
+      "scriptId":"u46"},
+    "4ffbce8efa3441029a9f7f37bad99523":{
+      "scriptId":"u47"},
+    "3d7629ad90f542db835bec956829ac3e":{
+      "scriptId":"u48"},
+    "9e1fe99b748b4363aacb7fbf974a072f":{
+      "scriptId":"u49"},
+    "b0962ab6c52547ebb7c466a29b1736fe":{
+      "scriptId":"u50"},
+    "b6fd19e2f0a148fd8e468133cecc07fa":{
+      "scriptId":"u51"},
+    "58d479935402457cac245ac5322c4e23":{
+      "scriptId":"u52"},
+    "7767a0f0e56044afbc0142da6e42e7f1":{
+      "scriptId":"u53"},
+    "85b3371e0607405d845972115ad5c62f":{
+      "scriptId":"u54"},
+    "fecd15cae0ec4c92a1f7ad71d484d7f5":{
+      "scriptId":"u55"},
+    "93dfef3aa3594202a4210df3d120d42c":{
+      "scriptId":"u56"},
+    "c3ef4f79984a4a2f9a06b79ff4f3cc1a":{
+      "scriptId":"u57"},
+    "2f08ddd3ebb84ca794af32e67b208642":{
+      "scriptId":"u58"},
+    "20de9f70ab1d4444ba751531a8a17e85":{
+      "scriptId":"u59"},
+    "101263f1265b4f58868cbfa42a410ce1":{
+      "scriptId":"u60"},
+    "f574ed87e7b14562b4d253fdb2234605":{
+      "scriptId":"u61"},
+    "58c9a23a2f0c435fb6b805410e059f5c":{
+      "scriptId":"u62"},
+    "262e07eb004c440b979c67d44f4027a5":{
+      "scriptId":"u63"},
+    "b9087d45c7bd44cbae3cab965f3ee304":{
+      "scriptId":"u64"},
+    "5caf4b320ca044898d87a4870b93f8d1":{
+      "scriptId":"u65"}}});

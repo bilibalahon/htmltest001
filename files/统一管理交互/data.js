@@ -1,0 +1,120 @@
+﻿$axure.loadCurrentPage({
+  "url":"统一管理交互.html",
+  "generationDate":new Date(1417419973953.81),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e2657ee4e73841a984aa6900c6684518",
+    "type":"Axure:Page",
+    "name":"统一管理交互",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF333333},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3c9d9fdbc33d4c20821668d7db0caf37",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":100,
+              "y":100},
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"731c7a49bf8f4131b7bdd6edf4084684",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":100,
+                  "y":100},
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏/u70.jpg"}},
+{
+          "id":"7f562089d8374b1e85e8011a0118d0fc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":560,
+              "y":100},
+            "size":{
+              "width":320,
+              "height":568}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"31a6de8ed1e44bb291d41200be85cae5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":560,
+                  "y":100},
+                "size":{
+                  "width":320,
+                  "height":568}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的游戏/u72.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3c9d9fdbc33d4c20821668d7db0caf37":{
+      "scriptId":"u0"},
+    "731c7a49bf8f4131b7bdd6edf4084684":{
+      "scriptId":"u1"},
+    "7f562089d8374b1e85e8011a0118d0fc":{
+      "scriptId":"u2"},
+    "31a6de8ed1e44bb291d41200be85cae5":{
+      "scriptId":"u3"}}});
